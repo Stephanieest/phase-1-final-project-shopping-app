@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Cozy Knit Sweater",
+        "description": "A soft and warm sweater for chilly days.",
+        "price": 45.00,
+        "image": "https://example.com/images/cozy_knit_sweater.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adorable Kids' Backpack",
+        "description": "A cute backpack for school or play.",
+        "price": 30.00,
+        "image": "https://example.com/images/adorable_kids_backpack.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stylish Men's Watch",
+        "description": "A sleek watch to elevate your outfit.",
+        "price": 60.00,
+        "image": "https://example.com/images/stylish_mens_watch.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fluffy Bunny Slippers",
+        "description": "Keep your feet warm with these adorable slippers.",
+        "price": 25.00,
+        "image": "https://example.com/images/fluffy_bunny_slippers.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cute Animal Pajamas",
+        "description": "Fun pajamas featuring your favorite animals.",
+        "price": 20.00,
+        "image": "https://example.com/images/cute_animal_pajamas.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Trendy Tote Bag",
+        "description": "A stylish tote for everyday use.",
+        "price": 35.00,
+        "image": "https://example.com/images/trendy_tote_bag.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Personalized Name Necklace",
+        "description": "A beautiful necklace with your name or initials.",
+        "price": 40.00,
+        "image": "https://example.com/images/personalized_name_necklace.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kawaii Sticker Set",
+        "description": "A collection of cute stickers for decorating.",
+        "price": 10.00,
+        "image": "https://example.com/images/kawaii_sticker_set.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Charming Kids' Book",
+        "description": "A delightful book to spark your child's imagination.",
+        "price": 15.00,
+        "image": "https://example.com/images/charming_kids_book.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Handmade Pottery Mug",
+        "description": "A unique mug perfect for your morning coffee.",
+        "price": 18.00,
+        "image": "https://example.com/images/handmade_pottery_mug.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Soft Plush Toy",
+        "description": "A cuddly companion for children and adults alike.",
+        "price": 22.00,
+        "image": "https://example.com/images/soft_plush_toy.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Cute Graphic T-Shirt",
+        "description": "Show off your personality with this fun tee.",
+        "price": 25.00,
+        "image": "https://example.com/images/cute_graphic_tshirt.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cozy Throw Blanket",
+        "description": "Perfect for snuggling on the couch.",
+        "price": 30.00,
+        "image": "https://example.com/images/cozy_throw_blanket.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Fashionable Sunglasses",
+        "description": "Protect your eyes in style this summer.",
+        "price": 20.00,
+        "image": "https://example.com/images/fashionable_sunglasses.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Colorful Art Supplies",
+        "description": "Everything you need to unleash your creativity.",
+        "price": 28.00,
+        "image": "https://example.com/images/colorful_art_supplies.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Cute Lunch Box",
+        "description": "Make lunchtime fun with this adorable lunch box.",
+        "price": 15.00,
+        "image": "https://example.com/images/cute_lunch_box.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Lovely Fridge Magnets",
+        "description": "Add a touch of charm to your fridge.",
+        "price": 12.00,
+        "image": "https://example.com/images/lovely_fridge_magnets.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Cute Coffee Coaster Set",
+        "description": "Protect your surfaces with these charming coasters.",
+        "price": 14.00,
+        "image": "https://example.com/images/cute_coffee_coaster_set.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Stylish Scarf",
+        "description": "Keep warm while looking fabulous.",
+        "price": 25.00,
+        "image": "https://example.com/images/stylish_scarf.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Adorable Baby Onesie",
+        "description": "Dress your little one in style.",
+        "price": 18.00,
+        "image": "https://example.com/images/adorable_baby_onesie.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Colorful Bead Bracelet",
+        "description": "A fun accessory to brighten your day.",
+        "price": 12.00,
+        "image": "https://example.com/images/colorful_bead_bracelet.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Cute Dog Bandana",
+        "description": "Make your furry friend look stylish.",
+        "price": 10.00,
+        "image": "https://example.com/images/cute_dog_bandana.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Fun Board Game",
+        "description": "Enjoy family game night with this exciting game.",
+        "price": 30.00,
+        "image": "https://example.com/images/fun_board_game.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Lovely Candle Set",
+        "description": "Create a cozy atmosphere with these scented candles.",
+        "price": 22.00,
+        "image": "https://example.com/images/lovely_candle_set.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Cute Phone Stand",
+        "description": "Keep your phone handy and stylish.",
+        "price": 15.00,
+        "image": "https://example.com/images/cute_phone_stand.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Handcrafted Journal",
+        "description": "Perfect for jotting down thoughts and ideas.",
+        "price": 20.00,
+        "image": "https://example.com/images/handcrafted_journal.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Charming Wall Art",
+        "description": "Brighten up your space with this cute decor.",
+        "price": 35.00,
+        "image": "https://example.com/images/charming_wall_art.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Stylish Belt",
+        "description": "Accessorize your outfit with this trendy belt.",
+        "price": 28.00,
+        "image": "https://example.com/images/stylish_belt.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Cute Kids' Sunglasses",
+        "description": "Protect your little ones' eyes in style.",
+        "price": 12.00,
+        "image": "https://example.com/images/cute_kids_sunglasses.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Fun DIY Craft Kit",
+        "description": "A creative project for kids and adults alike.",
+        "price": 25.00,
+        "image": "https://example.com/images/fun_diy_craft_kit.jpg"
+    }
+]
