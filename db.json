@@ -1,52 +1,53 @@
 [
     {
         "id": 1,
-        "name": "Cozy Knit Sweater",
-        "description": "A soft and warm sweater for chilly days.",
+        "name": "Sweatpants",
+        "description": "Soft and warm sweatpants for chilly days.",
         "price": 45.00,
-        "image": "https://example.com/images/cozy_knit_sweater.jpg"
+        "image": "https://i.pinimg.com/enabled_lo/236x/e4/df/02/e4df02f43fce2bef6579a96cea82de2c.jpg"
     },
     {
         "id": 2,
         "name": "Adorable Kids' Backpack",
         "description": "A cute backpack for school or play.",
         "price": 30.00,
-        "image": "https://example.com/images/adorable_kids_backpack.jpg"
+        "image": "https://i.pinimg.com/236x/33/b0/1b/33b01b4adbd3f9e5c23c0de33860d5a6.jpg"
     },
     {
         "id": 3,
         "name": "Stylish Men's Watch",
         "description": "A sleek watch to elevate your outfit.",
         "price": 60.00,
-        "image": "https://example.com/images/stylish_mens_watch.jpg"
+        "image": "https://i.pinimg.com/474x/e7/72/28/e77228532dc05def96859cea4a99931d.jpg"
+    
     },
     {
         "id": 4,
         "name": "Fluffy Bunny Slippers",
         "description": "Keep your feet warm with these adorable slippers.",
         "price": 25.00,
-        "image": "https://example.com/images/fluffy_bunny_slippers.jpg"
+        "image": "https://i.pinimg.com/236x/b3/f0/04/b3f00461893e4d7ea519003d5298fa9d.jpg"
     },
     {
         "id": 5,
         "name": "Cute Animal Pajamas",
         "description": "Fun pajamas featuring your favorite animals.",
         "price": 20.00,
-        "image": "https://example.com/images/cute_animal_pajamas.jpg"
+        "image": "https://i.pinimg.com/736x/e7/0c/69/e70c69b84687a89eaaf30a8bf05870c0.jpg"
     },
     {
         "id": 6,
         "name": "Trendy Tote Bag",
         "description": "A stylish tote for everyday use.",
         "price": 35.00,
-        "image": "https://example.com/images/trendy_tote_bag.jpg"
+        "image": "https://i.pinimg.com/236x/39/50/d7/3950d7af232e45df972f905ae4325ed4.jpg"
     },
     {
         "id": 7,
         "name": "Personalized Name Necklace",
         "description": "A beautiful necklace with your name or initials.",
         "price": 40.00,
-        "image": "https://example.com/images/personalized_name_necklace.jpg"
+        "image": "https://i.pinimg.com/236x/13/da/a7/13daa7e92e71d98bf60737ae76c59435.jpg"
     },
     {
         "id": 8,
