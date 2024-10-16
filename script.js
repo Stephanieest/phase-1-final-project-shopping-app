@@ -40,3 +40,11 @@ function renderProducts(filteredProducts){
     })
 }
 
+// adds items to the cart and an alert message is displayed,
+function addToCart(productId) {
+    const product = products.find(p => p.id === productId);
+    // uses .push to add elements to the end of the array
+    cart.push(product);
+    //alert message
+    alert(`${product.name} has been added to your cart. 🎉`);
+}
