@@ -46,5 +46,12 @@ function addToCart(productId) {
     // uses .push to add elements to the end of the array
     cart.push(product);
     //alert message
-    alert(`${product.name} has been added to your cart. 🎉`);
+    alert(`${product.name} has been added to your cart!🛒🎉`);
+}
+
+
+function removeFromCart(productId){
+    cart = cart.fill(item => item.id !== productId)
+    alert("Item has been removed from your cart!❌")
+    renderCart()
 }

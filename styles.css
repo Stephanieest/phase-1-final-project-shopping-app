@@ -2,7 +2,7 @@ body {
     font-family: cursive;
     margin: 0;
     padding: 0;
-    background-color: #FFFFF0;
+    background-color: #D6EAF8;
 }
 
 header{
@@ -34,8 +34,7 @@ nav ul{
     border: 1px rgb(255, 255, 255);
     border-radius: 5px;
     background: #FFF3E0;
-    padding: 15px;
-    box-shadow: 0 20px 20px #B2E0B2;
+    padding: 20px;
  }
 
  .product img{
