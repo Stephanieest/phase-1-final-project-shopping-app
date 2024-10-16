@@ -20,4 +20,10 @@ nav ul{
     color: black;
  }
 
- 
+ main{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr) );
+    gap: 20px;
+
+ }
