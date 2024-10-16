@@ -10,13 +10,14 @@ fetch('db.json')
         products = data;
         renderProducts(products);
     })
+    .catch(error => console.error('Error fethching products'))
 
 
 
 function renderProducts(filteredProducts){
 // resets the content which removes products that were displayed before
     mainContent.innerHTML=''
-    filteredProduct.forEach(product => {
+    filteredProducts.forEach(product => {
 // creates a div element and gives it a className
         const productDiv = document.createElement('div')
         productDiv.className = 'product'
@@ -35,3 +36,5 @@ function renderProducts(filteredProducts){
         mainContent.appendChild(productDiv);
     })
 }
+
+
