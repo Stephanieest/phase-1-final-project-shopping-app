@@ -83,20 +83,17 @@ function removeFromCart(productId){
 function renderCart() {
     mainContent.innerHTML = '<h2>Your Cart 🛒</h2>';
     if (cart.length === 0) {
-        // displays an empty cart message
+// displays an empty cart message
         mainContent.innerHTML += '<p>Your cart is empty. 😊</p>';
         return;
     }
-
     
-    cart.forEach(item => {
-        mainContent.innerHTML += `
-            <p>${item.name} - $${item.price}</p>
-            <button onclick="removeFromCart(${item.id})">Remove from Cart</button>
-        `;
-    });
 }
 
+document.getElementById('cart').addEventListener('click', (e) => {
+    e.preventDefault()
+    renderCart()
+})
 
 
 
