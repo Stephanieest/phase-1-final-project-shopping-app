@@ -46,6 +46,12 @@ function renderProducts(filteredProducts){
     })
 }
 
+document.getElementById('products').addEventListener('click', (e) => {
+    e.preventDefault();
+    renderProducts(products);
+});
+
+
 // adds items to the cart and an alert message is displayed,
 function addToCart(productId) {
     const product = products.find(p => p.id === productId);
@@ -63,10 +69,7 @@ function removeFromCart(productId){
 
 }
 
-document.getElementById('products').addEventListener('click', (e) => {
-    e.preventDefault();
-    renderProducts(products);
-});
+
 
 
 
