@@ -3,26 +3,28 @@ const searchInput = document.getElementById('search');
 let products = [];
 let cart = [];
 
-// fetch products from db.json
+document.addEventListener('DOMContentLoaded', () => {
+    // fetch products from db.json
 fetch('db.json')
-    .then(response => response.json())
-    .then(data => {
-        products = data;
-        renderProducts(products);
-    })
-    .catch(error => console.error('Error fethching products'))
+.then(response => response.json())
+.then(data => {
+    products = data;
+    renderProducts(products);
+})
+
+renderHome()
+})
+
 
     // ADDS HOME CONTENT BUT CAN'T DISPLAY IT YET
 
 function renderHome() {
     mainContent.innerHTML = `
-    <div style="text-align: center;"> 
-        <h2>Welcome to my shopping app 🛍️!!!<br>
-        Your one-stop destination for trendy and delightful products that cater to all your needs!<br>
-        ✨ Explore a curated collection featuring everything from cozy apparel 🧥 to stylish accessories 🎀, perfect for elevating your lifestyle.<br>
-        Whether you’re looking to spruce up your wardrobe 👗, find the perfect gift 🎁, or add a touch of charm to your home 🏡, our diverse selection has something for everyone.<br>
-        Shop 🛍️ now and discover unique items that express your style and creativity! 🌟</h2>
-        </div>
+    <h2>Welcome to my shopping app 🛍️!!!
+    Your one-stop destination for trendy and delightful products that cater to all your needs!
+    ✨ Explore a curated collection featuring everything from cozy apparel 🧥 to stylish accessories 🎀, perfect for elevating your lifestyle.
+    Whether you’re looking to spruce up your wardrobe 👗, find the perfect gift 🎁, or add a touch of charm to your home 🏡, our diverse selection has something for everyone.
+    Shop 🛍️ now and discover unique items that express your style and creativity! 🌟</h2>
         `;
 }
     
@@ -73,7 +75,7 @@ function addToCart(productId) {
 
 
 function removeFromCart(productId){
-    cart = cart.fill(item => item.id !== productId)
+    cart = cart.filter(item => item.id !== productId)
     alert("Item has been removed from your cart!❌")
     renderCart()
 
@@ -85,7 +87,6 @@ function renderCart() {
     if (cart.length === 0) {
 // displays an empty cart message
         mainContent.innerHTML += '<p>Your cart is empty. 😊</p>';
-        return;
     }
     
 }
@@ -95,5 +96,14 @@ document.getElementById('cart').addEventListener('click', (e) => {
     renderCart()
 })
 
+
+searchInput.addEventListener('change', () => {
+    const query = searchInput.value.toLowerCase();
+    const filteredProducts = products.filter(product => 
+        product.name.toLowerCase().includes(query) || 
+        product.description.toLowerCase().includes(query)
+    );
+    renderProducts(filteredProducts);
+});
 
 
