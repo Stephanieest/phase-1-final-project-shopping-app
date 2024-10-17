@@ -174,6 +174,30 @@
         "description": "Trendy chunky platform sneakers that add height and style. Perfect for casual outings and streetwear looks.",
         "price": "$.20.00",
         "image": "https://i.pinimg.com/236x/85/d7/a6/85d7a64751eb710b9dd69e8a2dbf0a62.jpg"
+    },
+    
+    {
+        "id": 26,
+        "name": "Stylish Leather Jacket",
+        "description": "A timeless leather jacket that adds a rugged edge to any outfit.",
+        "price": "$.120.00",
+        "image": "https://i.pinimg.com/enabled_lo/474x/66/94/32/6694328145ce1e0920d9a562333e4ebf.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Comfortable Joggers",
+        "description": "Soft and stylish joggers that are great for lounging or workouts.",
+        "price": "$45.00",
+        "image": "https://i.pinimg.com/236x/cb/86/1e/cb861e8df5fbba1a99e51f2af75a4632.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Trendy Sneakers",
+        "description": "Comfortable and fashionable sneakers perfect for everyday wear.",
+        "price": "$65.00",
+        "image": "https://i.pinimg.com/236x/89/a4/e3/89a4e3832cf77652067daa7d43580228.jpg"
     }
-]
+    ]
+    
+
     
