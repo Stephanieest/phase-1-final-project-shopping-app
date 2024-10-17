@@ -14,7 +14,7 @@ fetch('db.json')
 
     // ADDS HOME CONTENT BUT CAN'T DISPLAY IT YET
 function renderHome (){
-    mainContent.innerHTML = '<h2>Welcome to my shopping app, your one-stop destination for trendy and delightful products that cater to all your needs! Explore a curated collection featuring everything from cozy apparel to stylish accessories, perfect for elevating your lifestyle.Whether you’re looking to spruce up your wardrobe, find the perfect gift, or add a touch of charm to your home, our diverse selection has something for everyone. Shop now and discover unique items that express your style and creativity!</h2>'
+    mainContent.innerHTML = '<h2>Welcome to my shopping app 🛍️!!!<br> Your one-stop destination for trendy and delightful products that cater to all your needs!<br> ✨Explore a curated collection featuring everything from cozy apparel 🧥 to stylish accessories 🎀, perfect for elevating your lifestyle.<br>Whether you’re looking to spruce up your wardrobe 👗, find the perfect gift 🎁, or add a touch of charm to your home 🏡, our diverse selection has something for everyone.<br>Shop 🛍️ now and discover unique items that express your style and creativity! 🌟</h2>'
 }
 
 document.getElementById('home').addEventListener('click', (e) => {
@@ -60,6 +60,13 @@ function removeFromCart(productId){
     cart = cart.fill(item => item.id !== productId)
     alert("Item has been removed from your cart!❌")
     renderCart()
+
 }
+
+document.getElementById('products').addEventListener('click', (e) => {
+    e.preventDefault();
+    renderProducts(products);
+});
+
 
 
