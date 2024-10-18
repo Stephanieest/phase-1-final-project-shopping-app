@@ -5,7 +5,7 @@ let cart = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     // fetch products from db.json
-fetch('db.json')
+fetch('https://js-expense-tracker-be-ayjz.onrender.com/products')
 .then(response => response.json())
 .then(data => {
     products = data;
