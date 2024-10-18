@@ -1,9 +1,13 @@
 # phase-1-final-project-shopping-app
 ✨ Tephie’s Shop ✨
 
-Author:Stephanie Njonjo
+Shopping App built with HTML, CSS, JS and a DB.JSON, OCT 18 2024
 
-Live Site:
+By Stephanie Njonjo
+
+Description
+
+This shopping app is built using HTML, CSS and JavaScript, where users can view and search for products.
 
 Welcome to Tephie’s Shop! 🛒 Your go-to place for all things adorable and stylish!
 
