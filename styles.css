@@ -9,6 +9,7 @@ header{
     text-align: center;
 }
 
+
 input[type="text"] {
    padding: 10px;
    margin: 10px;
@@ -28,6 +29,9 @@ h2{
    color: blanchedalmond;
 }
 
+p{
+   color: darksalmon;
+}
 
 nav ul{
     list-style: none;
