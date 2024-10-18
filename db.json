@@ -3,21 +3,21 @@
         "id": 1,
         "name": "Sweatpants 🥰",
         "description": "Soft and warm sweatpants for chilly days.",
-        "price": "$.45.00",
+        "price": "$45.00",
         "image": "https://i.pinimg.com/enabled_lo/236x/e4/df/02/e4df02f43fce2bef6579a96cea82de2c.jpg"
     },
     {
         "id": 2,
         "name": "Adorable Kids' Backpack 🎒",
         "description": "A cute backpack for school or play.",
-        "price": "$.30.00",
+        "price": "$30.00",
         "image": "https://i.pinimg.com/236x/33/b0/1b/33b01b4adbd3f9e5c23c0de33860d5a6.jpg"
     },
     {
         "id": 3,
         "name": "Stylish Men's Watch ⌚",
         "description": "A sleek watch to elevate your outfit.",
-        "price": "$.60.00",
+        "price": "$60.00",
         "image": "https://i.pinimg.com/474x/e7/72/28/e77228532dc05def96859cea4a99931d.jpg"
     
     },
@@ -25,154 +25,154 @@
         "id": 4,
         "name": "Fluffy Bunny Slippers 🐰",
         "description": "Keep your feet warm with these adorable slippers.",
-        "price": "$.25.00",
+        "price": "$25.00",
         "image": "https://i.pinimg.com/236x/b3/f0/04/b3f00461893e4d7ea519003d5298fa9d.jpg"
     },
     {
         "id": 5,
         "name": "Cute Animal Pajamas 🦙",
         "description": "Fun pajamas featuring your favorite animals.",
-        "price": "$.20.00",
+        "price": "$20.00",
         "image": "https://i.pinimg.com/736x/e7/0c/69/e70c69b84687a89eaaf30a8bf05870c0.jpg"
     },
     {
         "id": 6,
         "name": "Trendy Tote Bag 👜 ",
         "description": "A stylish tote for everyday use.",
-        "price": "$.35.00",
+        "price": "$35.00",
         "image": "https://i.pinimg.com/236x/39/50/d7/3950d7af232e45df972f905ae4325ed4.jpg"
     },
     {
         "id": 7,
         "name": "Personalized Name Necklace 💖",
         "description": "A beautiful necklace with your name or initials.",
-        "price": "$.40.00",
+        "price": "$40.00",
         "image": "https://i.pinimg.com/236x/13/da/a7/13daa7e92e71d98bf60737ae76c59435.jpg"
     },
     {
         "id": 8,
         "name": "Kawaii Sticker Set 🌈",
         "description": "A collection of cute stickers for decorating.",
-        "price": "$.10.00",
+        "price": "$10.00",
         "image": "https://i.pinimg.com/236x/2e/e9/73/2ee973518b25f28ba23b92f7a3cb5cb7.jpg"
     },
     {
         "id": 9,
         "name": "Kawaii Glitter Unicorn Gel Pen 🌈",
         "description": "This adorable unicorn gel pen adds a magical touch to your writing. The smooth gel ink glides effortlessly for a delightful writing experience.",
-        "price": "$.15.00",
+        "price": "$15.00",
         "image": "https://i.pinimg.com/736x/4b/01/eb/4b01eb2b037b0f60a5ba5ab142cf896f.jpg"
     },
     {
         "id": 10,
         "name": "Handmade Pottery Mug ☕",
         "description": "A unique mug perfect for your morning coffee.",
-        "price": "$.18.00",
+        "price": "$18.00",
         "image": "https://i.pinimg.com/236x/7d/c9/67/7dc9675e5565bf177cb3c1dfcbfbb34b.jpg"
     },
     {
         "id": 11,
         "name": "Soft Plush Toy 🧸",
         "description": "A cuddly companion for children and adults alike.",
-        "price": "$.22.00",
+        "price": "$22.00",
         "image": "https://i.pinimg.com/736x/fc/d9/a2/fcd9a26a310ac071da4e63a6f3c4fd64.jpg"
     },
     {
         "id": 12,
         "name": "Cute Graphic T-Shirt 👕",
         "description": "Show off your personality with this fun tee.",
-        "price": "$.25.00",
+        "price": "$25.00",
         "image": "https://i.pinimg.com/236x/40/a7/72/40a772c3d2bf4c0677034c60ef3c75a5.jpg"
     },
     {
         "id": 13,
         "name": "Cozy Throw Blanket 🛋️",
         "description": "Perfect for snuggling on the couch.",
-        "price": "$.30.00",
+        "price": "$30.00",
         "image": "https://i.pinimg.com/236x/55/98/fd/5598fd24ebcbf54a9e7be2882aa29dbe.jpg"
     },
     {
         "id": 14,
         "name": "Fashionable Sunglasses 😎",
         "description": "Protect your eyes in style this summer.",
-        "price": "$.20.00",
+        "price": "$20.00",
         "image": "https://i.pinimg.com/236x/a6/9d/cc/a69dcc00134eac6245522532013c9562.jpg"
     },
     {
         "id": 15,
         "name": "Sparkling Star Ring 💍 ",
         "description": "A whimsical ring adorned with tiny crystals, ideal for those who love a bit of sparkle.",
-        "price": "$.28.00",
+        "price": "$28.00",
         "image": "https://i.pinimg.com/236x/59/30/b2/5930b2c835f89c89288dfc1f4e400d49.jpg"
     },
     {
         "id": 16,
         "name": "Lovely Fridge Magnets 🧲 ",
         "description": "Add a touch of charm to your fridge.",
-        "price": "$.12.00",
+        "price": "$12.00",
         "image": "https://i.pinimg.com/236x/ad/f0/64/adf0649ae991d1b1595ae531370058a2.jpg"
     },
     {
         "id": 17,
         "name": "Cute Coffee Coaster Set ☕",
         "description": "Protect your surfaces with these charming coasters.",
-        "price": "$.14.00",
+        "price": "$14.00",
         "image": "https://i.pinimg.com/236x/7c/4a/04/7c4a049311fe88b43c251b27c58e08c5.jpg"
     },
     {
         "id": 18,
         "name": "Classic Leather Wallet 👛",
         "description": "A timeless classic, this leather wallet features multiple card slots and a sleek design. Perfect for everyday use or special occasions.",
-        "price": "$.25.00",
+        "price": "$25.00",
         "image": "https://i.pinimg.com/564x/1f/00/bf/1f00bfad58afce5decc0d6aba082f448.jpg"
     },
     {
         "id": 19,
         "name": "Gold Chain Necklace 💎",
         "description": "his stunning gold chain necklace is versatile enough for everyday wear or special occasions. Its lightweight design ensures comfort.",
-        "price": "$.18.00",
+        "price": "$18.00",
         "image": "https://i.pinimg.com/236x/76/d7/7c/76d77cc94ab5d216f279cb1c84dbb4d3.jpg"
     },
     {
         "id": 20,
         "name": "Colorful Bead Bracelet 🌈",
         "description": "A fun accessory to brighten your day.",
-        "price": "$.12.00",
+        "price": "$12.00",
         "image": "https://i.pinimg.com/236x/3a/26/68/3a2668286140e2830c55ff2c2cfe5812.jpg"
     },
     {
         "id": 21,
         "name": "Keychain Set 🔑",
         "description": "Keep your keys stylish with these adorable puzzle piece keychains that fit together, symbolizing your bond.",
-        "price": "$.10.00",
+        "price": "$10.00",
         "image": "https://i.pinimg.com/474x/9c/73/96/9c73961467e36fd88eba5ba83e1c7ab1.jpg"
     },
     {
         "id": 22,
         "name": "Black Mary Janes 👠",
         "description": "These classic black Mary Janes are perfect for any occasion. With a sleek design and comfortable fit, they’re a timeless addition to your wardrobe.",
-        "price": "$.30.00",
+        "price": "$30.00",
         "image": "https://i.pinimg.com/564x/c2/28/ed/c228ed371a96d91a3aa5fdc7dbe92c0a.jpg"
     },
     {
         "id": 23,
         "name": "Strawberry Candle Set 🍓",
         "description": "Create a cozy atmosphere with these strawberry scented candles.",
-        "price": "$.22.00",
+        "price": "$22.00",
         "image": "https://i.pinimg.com/236x/3d/e0/34/3de03485b44a99b9837aa4736149717b.jpg"
     },
     {
         "id": 24,
         "name": "Cute Phone Stand 📱",
         "description": "Keep your phone handy and stylish.",
-        "price": "$.15.00",
+        "price": "$15.00",
         "image": "https://i.pinimg.com/236x/e0/a3/dc/e0a3dc2fb0cdd952b763cad497f43b97.jpg"
     },
     {
         "id": 25,
         "name": "Chunky Platform Sneakers 👟 ",
         "description": "Trendy chunky platform sneakers that add height and style. Perfect for casual outings and streetwear looks.",
-        "price": "$.20.00",
+        "price": "$20.00",
         "image": "https://i.pinimg.com/236x/85/d7/a6/85d7a64751eb710b9dd69e8a2dbf0a62.jpg"
     },
     
@@ -180,7 +180,7 @@
         "id": 26,
         "name": "Stylish Leather Jacket 🧥",
         "description": "A timeless leather jacket that adds a rugged edge to any outfit.",
-        "price": "$.120.00",
+        "price": "$120.00",
         "image": "https://i.pinimg.com/enabled_lo/474x/66/94/32/6694328145ce1e0920d9a562333e4ebf.jpg"
     },
     {
