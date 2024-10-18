@@ -1,5 +1,5 @@
 # phase-1-final-project-shopping-app
-✨ Tephie’s Shop ✨
+#✨ Tephie’s Shop ✨
 
 Shopping App built with HTML, CSS, JS and a DB.JSON, OCT 18 2024
 
