@@ -5,9 +5,9 @@
 
 ## By Stephanie Njonjo
 
-Description
+## Description
 
-This shopping app is built using HTML, CSS and JavaScript, where users can view and search for products.
+- *This shopping app is built using HTML, CSS and JavaScript, where users can view and search for products.*
 
 Welcome to Tephie’s Shop! 🛒 Your go-to place for all things adorable and stylish!
 
