@@ -15,6 +15,8 @@
 
 - *At Tephie’s Shop, we believe that shopping should be a delightful experience! From cozy apparel to charming accessories, we curate unique products that bring joy and style to your life. Explore our collection and find something special just for you!*
 
+LINK : https://stephanieest.github.io/phase-1-final-project-shopping-app/
+
 ## 🛍️ What We Offer:
 
 - Handcrafted Items: Unique, lovingly made 2. products that stand out.
